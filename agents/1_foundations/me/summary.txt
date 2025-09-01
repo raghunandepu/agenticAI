@@ -1,2 +1,12 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Raghuram Nandepu. With 15 years in tech, I specialise in turning complex business
+challenges into AI-driven solutions. My background in math and
+analytics has shaped a career focused on Python, Machine
+Learning, NLP, and more recently, Generative AI and Agentic AI.
+I’ve led initiatives that range from building predictive models to
+deploying intelligent assistants—always with a focus on driving real
+business outcomes. I enjoy bridging the gap between technology
+and strategy, especially in environments that demand innovation and
+impact.
+Curious by nature and driven by results, I’m passionate about using
+AI to shape smarter decisions, automate workflows, and reimagine
+how organisations work.
